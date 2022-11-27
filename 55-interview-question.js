@@ -7,7 +7,7 @@
 // should return false
 
 // Input: 2 parameters - Arrays [] - No size limit
-// Output: True or False
+// Output: true or false.
 
 const array1 = ["a", "b", "x", "y"];
 const array2 = ["s", "z", "a"];
